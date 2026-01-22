@@ -119,7 +119,7 @@ Using these tools to complete assignments and/or assigned tasks is unproductive 
 
 As an introductory course geared to teach *you* new skills, this course has a strict zero tolerance policy for use of AI generated code.
 
-Discussing course topics or using AI to generate examples to facilitate learning is allowed, however, **all of the following instances of unprofessional or irresponsible conduct will result in a zero without exception**.
+Discussing course topics with AI tools or using AI to generate examples to facilitate learning is allowed, however, **all of the following instances of unprofessional or irresponsible conduct will result in a zero without exception**.
 
 * Direct copy and paste of AI code. This prevents you from learning how to apply the underlying techniques.
 * Using the same exact code as another student (because you both copied from the same AI model). Copying your work off another machine intelligence is the same as copying your work off a human intelligence.
