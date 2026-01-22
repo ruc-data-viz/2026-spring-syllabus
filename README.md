@@ -128,7 +128,7 @@ Discussing course topics with AI tools or using AI to generate examples to facil
 
 Note that even if using AI within the acceptable limits, even leading foundation models often get problems studied in this class wrong, and do not always write correct code! **You are responsible for the code you turn in, and you will ultimately get the grade assigned, not the AI tool.** AI is trained to satisfy human reviewers (who often are not experts) that it is correct, not to actually *be* correct, which leads to AI models having a tendency to be confidently wrong. The AI models are not motivated to help you get the answer to your homework problem right, only to **convince** you they are right, which makes using AI tools in a domain you are still learning dangerous.
 
-It is important to note that in industry, outside the context of this course, AI is used extensively, but responsible employers have adopted AI standards of practices and established internal AI governance boards to ensure its proper use, and will only hire employees with sufficient knowledge of their own to be capable of reviewing the outputs of AI tools to prevent reputational or societal harm.
+It is important to note that in industry, outside the context of this course, AI is used extensively, but responsible employers have adopted AI standard and established internal AI governance boards to ensure its proper use, and will only hire employees with sufficient knowledge of their own to be capable of reviewing the outputs of AI tools to prevent reputational or societal harm.
 
 For examples of the harm that misuse of AI can cause to society, consult the [AI Incident Database](https://incidentdatabase.ai/).
 
