@@ -107,11 +107,11 @@ This course will often reference Edward Tufte's classic test The Visual Display 
 
 ## Acknowledgements
 
-Nick Sanchirico taught this course in previous semesters and is owed tremendous credit and thanks for developing many of the materials and tools which this semester's work will be built from.
+Nick Sanchirico and Will Foran teach this course in other sections / semesters and are owed tremendous credit and thanks for developing many of the materials and tools which this semester's work will be built from.
 
 ## Ethical Use of AI Technologies and Large Language Models
 
-Large Language Models (LLMs), e.g., ChatGPT, Claude, Grok, etc., and other AI technologies are powerful tools that are accessible to all and used extensively in industry. While you are not prohibited from using these tools to facilitate and enhance your learning experience and practice using AI assisted coding techniques, **you are strictly prohibited from using these tools to perform your work for you**.
+Large Language Models (LLMs), e.g., ChatGPT, Claude, Grok, etc., and other AI technologies are powerful tools that are accessible to all and used extensively in industry. While you are not prohibited from using these tools to enhance your learning experience and practice using AI assisted coding techniques, **you are strictly prohibited from using these tools to perform your work for you**.
 
 This course is intended to teach *you* to extract original insights from data, with the goal of preparing *you* to be a productive member of a professional team, capable of bringing *original* insight to your teammates and stakeholders. An original insight is one that only *you* could have produced. While AI assisted coding techniques are used extensively in industry, productive and professional use of these tools requires you take the time to shape yourself into a craftsperson with sufficient knowledge and original insight to be worthy of the trust your teammates and stakeholders will place in you to ensure AI outputs are accurate, safe, and secure. AI tools cannot be fired, cannot be legally prosecuted, and feel no remorse for leaking private data, providing incorrect advice on critical issues, or burdening teams with technical debt and coding errors. The humans that use these tools, i.e., you, however are held accountable for the code you produce.
 
